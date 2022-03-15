@@ -66,4 +66,4 @@ function writeYourGenres() {
     }
 }
 
-writeYourGenres();vbger
+writeYourGenres();
